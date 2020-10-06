@@ -48,7 +48,7 @@ Upon search, city information including weather forecast, corresponding country,
 
 ## Deployed Link
 
-* [See Live Site](https://ajhuff7.github.io/the-escape-plan/)
+* [See Live Site](https://ph-kandy.github.io/the-escape-plan/)
 
 ---
 
@@ -60,8 +60,8 @@ Upon search, city information including weather forecast, corresponding country,
 **Bryan Barello**
 
 - [Portfolio Site](#)
-- [Github](https://github.com/ajhuff7)
-- [LinkedIn](https://www.linkedin.com/in/aj-huff-7696b14b/)
+- [Github](https://github.com/ph-kandy)
+- [LinkedIn](https://www.linkedin.com/in/andrew-kosel/)
 
 ## Credits
 
