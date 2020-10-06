@@ -1,6 +1,6 @@
 # the-escape-plan
 
-![Escape](assets/Escape.JPG)
+![Escape](readimg/Escape.JPG)
 
 The Escape Plan is an exclusive Global Luxury Concierge and Lifestyle Management Service. We serve a discerning clientele who expect top-level service at every turn. Whether you require a dedicated Lifestyle Manager, access to Private Red Carpet Events or arrange all-inclusive Luxury Travel, our experienced team are able to help. We offer a client search portal that allows the user to collect varied city data in one location. 
 
@@ -31,19 +31,19 @@ Upon search, city information including weather forecast, corresponding country,
 
 ## Features
 
-![Escape1](assets/Escape1.JPG)
+![Escape1](readimg/Escape1.JPG)
 
 - Materialize is used as a front end framework to design a well-polished and functional application. 
 
 - Responsive interface that adapts to all screen types.
 
-![Responsive](assets/Responsive.JPG)
+![Responsive](readimg/Responsive.JPG)
 
 - Nested API's where which one builds upon the previous data points that were pulled from the prior API.
 
-![api1](assets/api1.JPG)
+![api1](readimg/api1.JPG)
 
-![api2](assets/api2.JPG)
+![api2](readimg/api2.JPG)
 
 
 ## Deployed Link
